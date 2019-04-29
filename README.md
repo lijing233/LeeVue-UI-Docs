@@ -1,2 +1,36 @@
-# LeeVue-UI-Docs
-一个Vue -UI组件库网站demo，旨在了解和学习常用组件的封装和优化，以及如何构建自己组件库 本demo已Element-UI为基础仿写和学习
+# vue-ui-demo
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+
+
+### 相关链接
+
+element-ui 官网源码: https://github.com/elemefe/element
+
+vue-markdown-loader: https://github.com/QingWei-Li/vue-markdown-loader
+
+mint-ui: https://github.com/mint-ui/docs

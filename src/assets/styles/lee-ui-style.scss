@@ -1,0 +1,28 @@
+// common
+$--color-success: #67c23a !default;
+$--color-warning: #e6a23c !default;
+$--color-danger: #f56c6c !default;
+$--color-info: #909399 !default;
+.cant-seclet{
+  /* 文字不能被选中 */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+// loading
+.loading-parent--relative{
+  position: relative;
+}
+.loading-parent--hidden{
+  overflow: hidden;
+}
+.eg-loading-box{
+  text-align: center;
+  background: #f1f1f1;
+  padding: 20px;
+  margin: 20px;
+  p{
+    margin: 10px 0 !important;
+  }
+}
